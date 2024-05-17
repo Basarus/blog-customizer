@@ -8,6 +8,10 @@
 	row-gap: 4px;
 }
 
+.container:hover {
+	outline-color: #ffc802;
+}
+
 .arrow {
 	position: absolute;
 	top: 50%;
